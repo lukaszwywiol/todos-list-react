@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lukaszwywiol/todos-list-react/static/css/main.0fab1ed5.css",
-    "main.js": "/lukaszwywiol/todos-list-react/static/js/main.6d589906.js",
-    "static/js/651.3c6a7a1e.chunk.js": "/lukaszwywiol/todos-list-react/static/js/651.3c6a7a1e.chunk.js",
-    "index.html": "/lukaszwywiol/todos-list-react/index.html",
-    "main.0fab1ed5.css.map": "/lukaszwywiol/todos-list-react/static/css/main.0fab1ed5.css.map",
-    "main.6d589906.js.map": "/lukaszwywiol/todos-list-react/static/js/main.6d589906.js.map",
-    "651.3c6a7a1e.chunk.js.map": "/lukaszwywiol/todos-list-react/static/js/651.3c6a7a1e.chunk.js.map"
+    "main.css": "/todos-list-react/static/css/main.0fab1ed5.css",
+    "main.js": "/todos-list-react/static/js/main.f1eeb1de.js",
+    "static/js/651.3c6a7a1e.chunk.js": "/todos-list-react/static/js/651.3c6a7a1e.chunk.js",
+    "index.html": "/todos-list-react/index.html",
+    "main.0fab1ed5.css.map": "/todos-list-react/static/css/main.0fab1ed5.css.map",
+    "main.f1eeb1de.js.map": "/todos-list-react/static/js/main.f1eeb1de.js.map",
+    "651.3c6a7a1e.chunk.js.map": "/todos-list-react/static/js/651.3c6a7a1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fab1ed5.css",
-    "static/js/main.6d589906.js"
+    "static/js/main.f1eeb1de.js"
   ]
 }
